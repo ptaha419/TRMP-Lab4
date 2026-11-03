@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+
+# Build
+build/
+app/build/
+
+# Gradle
+.gradle/
+gradle/wrapper/
+
+# Local config
+local.properties
+
+# System
+.DS_Store
